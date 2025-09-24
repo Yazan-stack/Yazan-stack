@@ -4,8 +4,8 @@
 
 
 
-- Currently learning fundemantls of programming using c++
-(And additionally learning the syntax of python )
+- Currently learning fundemantls of programming and applying them using c++
+(And additionally learning python🐍 )
 - Solved over 200 problems so far
 - Completed 6 mini projects
 
