@@ -68,6 +68,7 @@ A comprehensive C++ implementation of fundamental data structures:
 - **Bank OOP System** - Object-oriented banking with authentication
 
 *All projects built with C++ demonstrating progressive skill development.*
+For More Details about the [Projects](PROJECTS.md) 
 
 ### 🏗️ Core Competencies
 - **Object-Oriented Programming** - Solid understanding of OOP principles
