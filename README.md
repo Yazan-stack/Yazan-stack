@@ -26,13 +26,15 @@ Following a structured 2-3 year learning path designed by industry expert Dr. Mo
 
 **✅ Completed Foundations:**
 - Algorithms (Levels 1-5)
-- C++ Programming (Levels 1-2) 
+- C++ Programming (Levels 1-2)
+- C# Programming Level 1
+- Sql DataBase 
 - Object-Oriented Programming (OOP Theory & Applications)
 - Data Structures Level 1
 - Problem Formulation & Advanced Algorithm Solutions
 
 **🔄 Currently Learning:**
-- **C# Level 1** - Building robust desktop applications
+- **Full Porject in C#** - Building simulation of a enterprise solution
 - Database Fundamentals with SQL
 - Advanced OOP concepts in C#
 - Introduction To Computer Programming Using Python
@@ -113,7 +115,7 @@ As stated in the roadmap: *"You are 50% ready for any specialization because you
 ## 📊 Progress Metrics
 
 - **5 months** of dedicated learning
-- **13 courses** completed in the roadmap
+- **18 courses** completed in the roadmap
 - **Multiple C++ projects** implemented from scratch
 - **Strong grasp** of algorithms and data structures
 
