@@ -5,7 +5,7 @@ I'm a **Information Technology** student at **Liwa University** following **Dr. 
 https://programmingadvices.com/p/roadmap
 
 
-**Current Milestone:** Course 14 - C# Level 1  
+**Current Milestone:** Course 18 - connecting c# and database
 **Main Goal:** Becoming a full-stack developer with specialization in web development.
 
 ## 📈 Learning Journey
@@ -28,14 +28,16 @@ Following a structured 2-3 year learning path designed by industry expert Dr. Mo
 - Algorithms (Levels 1-5)
 - C++ Programming (Levels 1-2)
 - C# Programming Level 1
-- Sql DataBase 
+- Sql DataBase
+- T Sql Database
 - Object-Oriented Programming (OOP Theory & Applications)
 - Data Structures Level 1
 - Problem Formulation & Advanced Algorithm Solutions
+- Connecting C# and Database
 
 **🔄 Currently Learning:**
 - **Full Porject in C#** - Building simulation of a enterprise solution
-- Database Fundamentals with SQL
+- Database Fundamentals with T-SQL
 - Advanced OOP concepts in C#
 - Introduction To Computer Programming Using Python
 
@@ -114,7 +116,7 @@ As stated in the roadmap: *"You are 50% ready for any specialization because you
 
 ## 📊 Progress Metrics
 
-- **5 months** of dedicated learning
+- **7 months** of dedicated learning
 - **18 courses** completed in the roadmap
 - **Multiple C++ projects** implemented from scratch
 - **Strong grasp** of algorithms and data structures
